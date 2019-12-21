@@ -1,0 +1,14 @@
+C:\Users\Ilya Axenov\source\repos\TestClient\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Ilya Axenov\source\repos\TestClient\TestClient\bin\Debug\TestClient.exe
+C:\Users\Ilya Axenov\source\repos\TestClient\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Ilya Axenov\source\repos\TestClient\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+C:\Users\Ilya Axenov\source\repos\TestClient\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\Ilya Axenov\source\repos\TestClient\TestClient\obj\Debug\TestClient.exe
+C:\Users\Ilya Axenov\source\repos\TestClient\TestClient\obj\Debug\TestClient.pdb
+D:\source\repos\TestClient\TestClient\bin\Debug\TestClient.exe.config
+D:\source\repos\TestClient\TestClient\bin\Debug\TestClient.exe
+D:\source\repos\TestClient\TestClient\bin\Debug\TestClient.pdb
+D:\source\repos\TestClient\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+D:\source\repos\TestClient\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+D:\source\repos\TestClient\TestClient\obj\Debug\TestClient.exe
+D:\source\repos\TestClient\TestClient\obj\Debug\TestClient.pdb
